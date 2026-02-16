@@ -1,4 +1,4 @@
-﻿# Repaso-JS-3er_Trim
+<img width="629" height="435" alt="image" src="https://github.com/user-attachments/assets/3bc18a55-69c7-485b-b463-2d871392f36b" />﻿# Repaso-JS-3er_Trim
 
 
 🚀 Taller de Repaso: JavaScript Moderno
@@ -8,28 +8,8 @@ El enfoque principal es entender la evolución del manejo de la asincronía y la
 📂 Estructura del Proyecto
 El proyecto sigue una arquitectura modular donde cada tema tiene su propia carpeta dentro de features, manteniendo el código aislado y fácil de mantener.
 
-├── public/
-│   └── images/              # Recursos estáticos (iconos, fotos de usuarios, etc.)
-├── src/
-│   ├── features/            # Módulos independientes por tema
-│   │   ├── destructuring/   # Ejercicios de desestructuración de objetos
-│   │   │   ├── index.html
-│   │   │   └── script.js
-│   │   ├── callbacks/       # Ejercicios de funciones callback
-│   │   │   ├── index.html
-│   │   │   └── script.js
-│   │   ├── promises/        # Manejo de promesas (.then / .catch)
-│   │   │   ├── index.html
-│   │   │   └── script.js
-│   │   └── crud-async/      # Proyecto final: CRUD con Async/Await
-│   │       ├── index.html
-│   │       └── script.js
-│   ├── shared/
-│   │   └── css/             # Hojas de estilo globales y utilidades
-│   │       └── styles.css
-│   └── index.html           # Punto de entrada principal (Menú de navegación)
-├── README.md
-└── .gitignore
+<img width="629" height="435" alt="image" src="https://github.com/user-attachments/assets/bbd05798-37f0-46d0-8d44-53aff9324c44" />
+
 
 📚 Detalle de los Temas (Features)
 Cada carpeta dentro de src/features/ contiene un mini-proyecto autocontenido:
@@ -55,4 +35,5 @@ Delete: Eliminar elementos del DOM y del estado.
 HTML5: Estructura semántica.
 CSS3: Estilizado en src/shared/css.
 JavaScript (ES6+): Vanilla JS sin frameworks.
+
 
