@@ -1,4 +1,4 @@
-<img width="629" height="435" alt="image" src="https://github.com/user-attachments/assets/3bc18a55-69c7-485b-b463-2d871392f36b" />﻿# Repaso-JS-3er_Trim
+# Repaso-JS-3er_Trim
 
 
 🚀 Taller de Repaso: JavaScript Moderno
